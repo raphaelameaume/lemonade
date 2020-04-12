@@ -14,7 +14,7 @@
 So far, `lemonade` is made of:
 - [lemonade-events](https://github.com/raphaelameaume/lemonade-events): Minimal event system 👀
 - [lemonade-helpers](https://github.com/raphaelameaume/lemonade-helpers): Utility functions for browser and dom events ⚙️ 
-- [lemonade-spring](https://github.com/raphaelameaume/lemonade-helpers): Simple spring animations 🌱
+- [lemonade-spring](https://github.com/raphaelameaume/lemonade-spring): Simple spring animations 🌱
 - [lemonade-math](https://github.com/raphaelameaume/lemonade-math): Math utility functions 🧮
 - [lemonade-component](https://github.com/raphaelameaume/lemonade-component): (alpha) Minimal component library 🏷
 - [lemonade-router](https://github.com/raphaelameaume/lemonade-router): (beta) Minimal routing library 🧭
