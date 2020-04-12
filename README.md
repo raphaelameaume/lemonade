@@ -1,4 +1,4 @@
-# lemonade 🍋🌞
+# lemonade 🍋
 
 > Functional lightweight toolbox for the web 
 
@@ -16,7 +16,7 @@ So far, `lemonade` is made of:
 - [lemonade-helpers](https://github.com/raphaelameaume/lemonade-helpers): Utility functions for browser and dom events ⚙️ 
 - [lemonade-spring](https://github.com/raphaelameaume/lemonade-helpers): Simple spring animations 🌱
 - [lemonade-math](https://github.com/raphaelameaume/lemonade-math): Math utility functions 🧮
-- [lemonade-component](https://github.com/raphaelameaume/lemonade-component): (alpha) Minimal component library
+- [lemonade-component](https://github.com/raphaelameaume/lemonade-component): (alpha) Minimal component library 🏷
 
 ## Release roadmap
 
@@ -26,8 +26,8 @@ So far, `lemonade` is made of:
 
 ## Motivation
 
-Over the last years, I built a set of tools embracing classes and inheritage. For the last year, I tried to apply a more composable approach to my code and I found myself writing more reusable, less verbose and complicated code. I also got sick of having a hundred of packages I didn't know and care about in my `node_modules` folder so this is my attempt to avoid that.
+Over the last years, I built a set of tools embracing classes and inheritage which grew on verbosity and complexity. For the last year, I tried to apply a more composable approach to my code and I found myself writing more reusable, less verbose and complicated code. I also got sick of having a hundred of packages I didn't know and care about in my `node_modules` folder so this is my attempt to avoid that.
 
 ## Why lemonade ?
 
-Because it's fresh!
+Because it's fresh! 
