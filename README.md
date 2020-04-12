@@ -17,10 +17,10 @@ So far, `lemonade` is made of:
 - [lemonade-spring](https://github.com/raphaelameaume/lemonade-helpers): Simple spring animations 🌱
 - [lemonade-math](https://github.com/raphaelameaume/lemonade-math): Math utility functions 🧮
 - [lemonade-component](https://github.com/raphaelameaume/lemonade-component): (alpha) Minimal component library 🏷
+- [lemonade-router](https://github.com/raphaelameaume/lemonade-router): (beta) Minimal routing library 🧭
 
-## Release roadmap
+## Release roadmap 
 
-- `lemonade-router`: A routing library inspired by React Router and Barba.js
 - `lemonade-tween`: A lightweight animation engine with an API similar to `gsap`
 - `lemonade-loader`: A WebWorker file loader with built-in cache
 
